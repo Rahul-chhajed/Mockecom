@@ -28,21 +28,22 @@ npm start
 ## 🖼️ Project Screenshots
 
 ### 🏠 Home Page  
-<img width="800" alt="Home Page" src="https://github.com/Rahul-chhajed/Mockecom/blob/master/frontend/src/assets/Screenshot%202025-10-28%20182544.png" />
+<img width="800" alt="Home Page" src="https://github.com/Rahul-chhajed/Mockecom/raw/master/frontend/src/assets/Screenshot%202025-10-28%20182544.png" />
 
 ---
 
 ### 🛒 Cart  
-<img width="400" alt="Cart Page" src="https://github.com/Rahul-chhajed/Mockecom/blob/master/frontend/src/assets/Screenshot%202025-10-28%20182612.png" />
+<img width="400" alt="Cart Page" src="https://github.com/Rahul-chhajed/Mockecom/raw/master/frontend/src/assets/Screenshot%202025-10-28%20182612.png" />
 
 ---
 
 ### 💳 Checkout  
-<img width="350" alt="Checkout Page" src="https://github.com/Rahul-chhajed/Mockecom/blob/master/frontend/src/assets/Screenshot%202025-10-28%20182632.png" />
+<img width="350" alt="Checkout Page" src="https://github.com/Rahul-chhajed/Mockecom/raw/master/frontend/src/assets/Screenshot%202025-10-28%20182632.png" />
 
 ---
 
 ### 🧾 Receipt  
-<img width="350" alt="Receipt Page" src="https://github.com/Rahul-chhajed/Mockecom/blob/master/frontend/src/assets/Screenshot%202025-10-28%20182655.png" />
+<img width="350" alt="Receipt Page" src="https://github.com/Rahul-chhajed/Mockecom/raw/master/frontend/src/assets/Screenshot%202025-10-28%20182655.png" />
+
 
 
