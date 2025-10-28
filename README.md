@@ -28,22 +28,22 @@ npm start
 ## 🖼️ Project Screenshots
 
 ### 🏠 Home Page  
-<img width="800" alt="Home Page" src="https://github.com/Rahul-chhajed/Mockecom/raw/master/frontend/src/assets/screenshot_1.png" />
+<img width="800" alt="Home Page" src="https://github.com/Rahul-chhajed/Mockecom/master/frontend/src/assets/screenshot_1.png" />
 
 ---
 
 ### 🛒 Cart  
-<img width="400" alt="Cart Page" src="https://github.com/Rahul-chhajed/Mockecom/raw/master/frontend/src/assets/screenshot_2.png" />
+<img width="400" alt="Cart Page" src="https://github.com/Rahul-chhajed/Mockecom/master/frontend/src/assets/screenshot_2.png" />
 
 ---
 
 ### 💳 Checkout  
-<img width="350" alt="Checkout Page" src="https://github.com/Rahul-chhajed/Mockecom/raw/master/frontend/src/assets/screenshot_3.png" />
+<img width="350" alt="Checkout Page" src="https://github.com/Rahul-chhajed/Mockecom/master/frontend/src/assets/screenshot_3.png" />
 
 ---
 
 ### 🧾 Receipt  
-<img width="350" alt="Receipt Page" src="https://github.com/Rahul-chhajed/Mockecom/raw/master/frontend/src/assets/screenshot_4.png" />
+<img width="350" alt="Receipt Page" src="https://github.com/Rahul-chhajed/Mockecom/master/frontend/src/assets/screenshot_4.png" />
 
 
 
