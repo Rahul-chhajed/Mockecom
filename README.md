@@ -28,7 +28,7 @@ npm start
 ## 🖼️ Project Screenshots
 
 ### 🏠 Home Page  
-<img width="800" alt="Home Page" src="https://github.com/Rahul-chhajed/Mockecom/blob/master/frontend/src/assets/screenshot_1.png" />
+<img width="800" alt="Home Page" src="https://github.com/Rahul-chhajed/Mockecom/blob/9f87df8260f1d70526c972b4da13aa8cafc815be/frontend/src/assets/screenshot_1.png" />
 
 ---
 
