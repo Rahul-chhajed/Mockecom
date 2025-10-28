@@ -2,7 +2,7 @@ import { useState } from "react";
 import ProductList from "./components/ProductList";
 import Cart from "./components/Cart";
 import CheckoutModal from "./components/CheckoutModal";
-
+import "./App.css";
 function App() {
   const [showCheckout, setShowCheckout] = useState(false);
   const [cartItems, setCartItems] = useState([]);
